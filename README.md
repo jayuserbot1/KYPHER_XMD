@@ -1,4 +1,4 @@
 # KYPHER_XMD 👋
 WHATSAPP BOT CREATED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
 
-     WILL MAKE IT EASY IN COMMUNICATION 😉
+     https://files.catbox.moe/l6e183.jpeg
