@@ -34,22 +34,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-POWERED BY ANDBAD TEAM 
+POWERED BY KYPHER_XMD CREATORS
 ╭─────────────────
 │❒⁠⁠⁠⁠╭─────────────
-│❒⁠⁠⁠⁠│▸ *THIS ARE MR ANDBAD GROUP LINKS* 
+│❒⁠⁠⁠⁠│▸ *THIS ARE KYPHER GROUP LINKS* 
 │❒⁠⁠⁠⁠│▸ *CHANNELS* 
 │❒⁠⁠⁠⁠│▸ *GROUPS*
 │❒⁠⁠⁠⁠╰──────────────
 │❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y
 │❒⁠⁠⁠⁠│▸
-│❒⁠⁠⁠⁠│▸ 1. https://chat.whatsapp.com/HuPTQpWrMcgKnrUuhd1UV7
-│❒⁠⁠⁠⁠│▸ 2. https://chat.whatsapp.com/JVnTDxF9YEmE4VBiYiyKlV
-│❒⁠⁠⁠⁠│▸ 3. https://chat.whatsapp.com/KQUhHDtpBxUKfhl94OlxEf
-│❒⁠⁠⁠⁠│▸ 4. https://chat.whatsapp.com/Ilh736URrxrFUqp4qhRu7L
-│❒⁠⁠⁠⁠│▸ 5. https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo
-│❒⁠⁠⁠⁠│▸ 6. https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9
+│❒⁠⁠⁠⁠│▸ 
+│❒⁠⁠⁠⁠│▸ GROUP: https://chat.whatsapp.com/BO1RVKMAatT7QldEGMvhYd
+│❒⁠⁠⁠⁠│▸
+│❒⁠⁠⁠⁠│
+│❒⁠⁠⁠⁠│▸          ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT𒆜𓊉 ✞
+│❒⁠⁠⁠⁠│▸ 
 │❒⁠⁠⁠⁠│▸
 │❒⁠⁠⁠⁠│▸ *MAKE SURE YOU HAVE JOINED THIS GROUPS*
 │❒⁠⁠⁠⁠│▸ 
@@ -58,7 +58,7 @@ POWERED BY ANDBAD TEAM
   `;
     
 let menuMsg = `
-     MADE EASY BY MR ANDBAD
+     MADE EASY BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
 
 ❒────────────────────❒`;
 
