@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *ANDBAD*`
+ *KYPHER26*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,14 +71,14 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("*AM ALIVE MOTHER FUCKER*") ; return};
+        if(!superUser) { repondre("*KYPHER_XMD IS ALIVE FOR A LIFE TIME*") ; return};
 
-      await   repondre("MR ANDBAD MD IS ALIVE AT THE MOMMENT DEPLOY IT NOW AND ENJOY");
+      await   repondre("KYPHER_XMD IS ALIVE AT THE MOMMENT DEPLOY IT NOW AND ENJOY");
          repondre("don't do fake thinks :)")
      }
  } else {
 
-    if(!superUser) { repondre ("MR ANDBAD ONLY") ; return};
+    if(!superUser) { repondre ("KYPHER_XMD ONLY") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
