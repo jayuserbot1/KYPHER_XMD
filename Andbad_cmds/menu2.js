@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《《ANDBAD MD》》────
+╭────《《KYPHER_XMD》》────
 ┴  ╭─────────────
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
@@ -43,11 +43,11 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
 │❒│⁠⁠⁠⁠ *THEME* : *ANDBADTHEME*
 ┬  ╰──────────────
-╰─── ··《《ANDBAD MD》》··──\n`;
+╰─── ··《《KYPHER_XMD》》··──\n`;
     
 let menuMsg = `
  ─────────
-  *TEAM ANDBAD BOTS* 
+  𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT𒆜𓊉
  ─────────
 
 
@@ -66,7 +66,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣MADE EASY BY MR ANDBAD
+|⏣CREATED BY _𝐊𝐘𝚸𝚮𝚵𝚪_ ✞
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
