@@ -31,7 +31,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        🌟 *ANDBAD MD* 🌟
+        🌟 *KYPHER_XMD* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Autor : *${nomAuteurMessage}* 👋 
@@ -377,7 +377,7 @@ zokou({ nomCom: "info", categorie: 'Group' }, async (dest, zk, commandeOptions) 
                     } else {
                   await ajouterOuMettreAJourJid(dest,"oui");
                 
-              repondre("ANDBAD MD ACTIVATED ANTILINK SUCCESSFULLY") }
+              repondre("KYPHER_XMD ANTILINK SUCCESSFULLY ACTIVATED") }
      
             } else if (arg[0] === "off") {
 
@@ -387,7 +387,7 @@ zokou({ nomCom: "info", categorie: 'Group' }, async (dest, zk, commandeOptions) 
                 repondre("The antilink has been successfully deactivated");
                 
               } else {
-                repondre("*ANDBAD MD ACTIVATED ANTILINK SUCCESSFULLY*");
+                repondre("*KYPHER_XMD ACTIVATED ANTILINK SUCCESSFULLY*");
               }
             } else if (arg.join('').split("/")[0] === 'action') {
                             
@@ -441,7 +441,7 @@ zokou({ nomCom: "info", categorie: 'Group' }, async (dest, zk, commandeOptions) 
       if(arg[0] === 'on') {
 
       
-       if(enetatoui ) { repondre("the antibot is already activated for this group")
+       if(enetatoui ) { repondre("kypher_xmd...the antibot is already activated for this group")
                     } else {
                   await atbajouterOuMettreAJourJid(dest,"oui");
                 
