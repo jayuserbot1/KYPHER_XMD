@@ -41,16 +41,16 @@ AVAILABLE REPO AND GROUPS*
 │❒⁠⁠⁠⁠│▸ *GROUP* 
 │❒⁠⁠⁠⁠│▸ *REPO*
 │❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m
-│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo
-│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/Mrandbad/ANDBAD-MD-V1
-│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@andbadtz
+│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y
+│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/BO1RVKMAatT7QldEGMvhYd
+│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/KYPHER26/KYPHER_XMD
+│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@Kypher_tech
 │❒⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n
   `;
     
 let menuMsg = `
-     MADE EASY BY ANDBAD TEAMS
+     CREATED BY 𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT𒆜𓊉
 
 ❒────────────────────❒`;
 
