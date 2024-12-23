@@ -33,9 +33,9 @@ WHATSAPP BOT CREATED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
 
 
  
-[`QR SCANNER`](https://andbad-qr-k71b.onrender.com/qr)
+[`QR SCANNER`](https://kypher-xmd-id-generator.onrender.com)
 
-[`PAIRING CODE`](https://andbad-qr-k71b.onrender.com)
+[`PAIRING CODE`](https://kypher-xmd-id-generator.onrender.com)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
