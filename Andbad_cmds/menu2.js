@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────《《KYPHER_XMD》》────
+╭────《《𝐊𝐘𝚸𝚮𝚵𝚪_𝚾𝚳𝐃》》────
 ┴  ╭─────────────
 │❒⁠⁠⁠⁠│ *ADMIN* : ${s.OWNER_NAME}
 │❒│⁠⁠⁠⁠ *CALENDER* : ${date}
@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
 │❒│⁠⁠⁠⁠ *CHROME* : ${os.platform()}
 │❒│⁠⁠⁠⁠ *THEME* : *ANDBADTHEME*
 ┬  ╰──────────────
-╰─── ··《《KYPHER_XMD》》··──\n`;
+╰─── ··《《𝐊𝐘𝚸𝚮𝚵𝚪_𝚾𝚳𝐃》》··──\n`;
     
 let menuMsg = `
  ─────────
@@ -66,7 +66,7 @@ let menuMsg = `
 
     menuMsg += `
 
-|⏣CREATED BY _𝐊𝐘𝚸𝚮𝚵𝚪_ ✞
+|⏣𝚩𝚯𝚻 𝐂𝚪𝚵𝚫𝚻𝚵𝐃 𝚩𝐘_𝐊𝐘𝚸𝚮𝚵𝚪_ ✞
 *❒⁠⁠⁠⁠—————————— ❒⁠⁠⁠⁠——————————❒⁠⁠⁠⁠*
 `;
 
