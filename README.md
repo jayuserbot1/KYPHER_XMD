@@ -2,7 +2,7 @@
 WHATSAPP BOT CREATED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
 
     ➕ EASY COMMUNICATION ➕
-  [!Video Title](https://files.catbox.moe/jruil4.mp4)
+  ![Image Alt](https://files.catbox.moe/kwi2pa.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
