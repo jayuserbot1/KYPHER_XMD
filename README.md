@@ -55,3 +55,14 @@ WHATSAPP BOT CREATED BY ✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞
    OTHER DEPLOYMENT PLATFORMS COMING... STAY TUNED 😉
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+  ## CONTACT 
+  [`WA channel`](https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y)
+
+ [`contact_me`](https://Wa.me/255760266629)
+
+ [`Youtube channel`](https://www.youtube.com/@Kypher_tech)
+
+
+    
