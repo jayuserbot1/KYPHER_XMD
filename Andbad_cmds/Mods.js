@@ -47,7 +47,7 @@ const sleep =  (ms) =>{
         type = 'not animated sticker'
       }
   
-      let msg = `   ⓐⓝⓓⓑⓐⓓ-ⓢⓣⓘⓒⓚⓔⓡ-ⓓⓛ
+      let msg = `   𝐊𝐘𝚸𝚮𝚵𝚪-ⓢⓣⓘⓒⓚⓔⓡ-ⓓⓛ
       
   *Name :* ${stickers.data.result.name}
   *Type :* ${type} 
@@ -70,7 +70,7 @@ const sleep =  (ms) =>{
   
           const sticker = new Sticker(buffer.data, {
             pack: nomAuteurMessage,
-            author: "ⓐⓝⓓⓑⓐⓓ",
+            author: "𝐊𝐘𝚸𝚮𝚵𝚪",
             type: StickerTypes.FULL,
             categories: ['🤩', '🎉'],
             id: '12345',
