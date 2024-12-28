@@ -34,26 +34,26 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────────────────────────╮  
+╭──────────────────────╮  
 │        🚀  *KYPHER_XMD*       │  
 │  𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_ 𒆜𓊉  │  
-╰─────────────────────────╯  
+╰──────────────────────╯  
 
-╭━━━━━❰ *MENU AVAILABLE* ❱━━━━━╮  
-┃ ❒  📜 ▸ *MENU*                  ┃  
-┃ ❒  📄 ▸ *MENU2*                 ┃  
+╭━━━━━❰ *AVAILABLE MENUS* ❱━━━╮  
+┃ ❒  📜 ▸ *MENU*                    
+┃ ❒  📄 ▸ *MENU2*                  
 ┃ ❒  🐞 ▸ *BUGMENU*  
-==================================┃  
-┃ ❒  🔌 ▸ *PLUGINS*  : ${cm.length} | 
-┃ ❒  💾 ▸ *RAM*      : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())} |  
-┃ ❒  🖥️  ▸ *SAVER*    : ${os.platform()} |         
-┃ ❒  🎨 ▸ *THEME*    : 𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_ 𒆜𓊉   
-╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯  
+┃ =======================
+┃ ❒  🔌 ▸ *PLUGINS*  : ${cm.length}   
+┃ ❒  💾 ▸ *RAM*      : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}    
+┃ ❒  🖥️  ▸ *SAVER*    : ${os.platform()}         
+┃ ❒  🎨 ▸ *THEME*    : _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_𒆜    
+╰━━━━━━━━━━━━━━━━━━━━━━━━╯ 
 
 📌 _*Type the command to proceed.*_  
-═══════════════════════════  
+════════════════════════  
 💡 _*𝚾_𝚳_𝐃*_  
-══════════════════════════\n`;
+════════════════════════\n`;
 
 let menuMsg = `
 
@@ -64,7 +64,7 @@ let menuMsg = `
         menuMsg += ` ╭────────❒⁠⁠⁠⁠ *${cat}* ✣`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│❒⁠⁠⁠⁠│▸ ${cmd}`;
+│➕⁠⁠⁠⁠│▸ ${cmd}`;
         }
         menuMsg += `
 ╰────────────···▸▸ \n`
