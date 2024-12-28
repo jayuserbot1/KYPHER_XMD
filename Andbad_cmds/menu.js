@@ -44,15 +44,15 @@ const date = moment().format('DD/MM/YYYY');
 ┃ ❒  📄 ▸ *MENU2*                 ┃  
 ┃ ❒  🐞 ▸ *BUGMENU*  
 ==================================┃  
-┃ ❒  🔌 ▸ *PLUGINS*  : ${cm.length} ┃  
-┃ ❒  💾 ▸ *RAM*      : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}  ┃  
-┃ ❒  🖥️  ▸ *SAVER*    : ${os.platform()}       ┃  
-┃ ❒  🎨 ▸ *THEME*    : 𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_ 𒆜𓊉  ┃  
+┃ ❒  🔌 ▸ *PLUGINS*  : ${cm.length} | 
+┃ ❒  💾 ▸ *RAM*      : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())} |  
+┃ ❒  🖥️  ▸ *SAVER*    : ${os.platform()} |         
+┃ ❒  🎨 ▸ *THEME*    : 𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_ 𒆜𓊉   
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯  
 
 📌 _*Type the command to proceed.*_  
 ═══════════════════════════  
-💡 _*Need assistance? Type 'Assist' or 'Help'*_  
+💡 _*𝚾_𝚳_𝐃*_  
 ══════════════════════════\n`;
 
 let menuMsg = `
