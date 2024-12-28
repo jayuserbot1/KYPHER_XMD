@@ -34,19 +34,34 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-AVAILABLE REPO AND GROUPS* 
-╭─────────────────
-│❒⁠⁠⁠⁠╭─────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* 
-│❒⁠⁠⁠⁠│▸ *GROUP* 
-│❒⁠⁠⁠⁠│▸ *REPO*
-│❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y
-│❒⁠⁠⁠⁠│▸ *GROUP* : https://chat.whatsapp.com/BO1RVKMAatT7QldEGMvhYd
-│❒⁠⁠⁠⁠│▸ *REPO* : https://github.com/KYPHER26/KYPHER_XMD
-│❒⁠⁠⁠⁠│▸ *YTUBE* : https://www.youtube.com/@Kypher_tech
-│❒⁠⁠⁠⁠╰──────────────
-╰──────────────────\n
+╔════════════════╗  
+  🚀 *REPOS & GROUPS* 🚀  
+╚════════════════╝  
+  
+📢 *CHANNEL*  
+➤ https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y  
+  
+👥 *GROUP*  
+➤ https://chat.whatsapp.com/BO1RVKMAatT7QldEGMvhYd  
+  
+💻 *REPO*  
+➤ https://github.com/KYPHER26/KYPHER_XMD  
+  
+▶️ *YOUTUBE*  
+➤ https://www.youtube.com/@Kypher_tech  
+  
+═══════════════════════  
+🎨 *DESIGNED BY*  
+✞𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉 ✞  
+═══════════════════════  
+  
+🔔 *Stay Connected!*  
+💬 _Join us for updates and exclusive content._  
+  
+🔥 *DON’T FORGET TO:*  
+➤ Star the repo ⭐  
+➤ FOLLOW WAchannel 🔔  
+➤ Share with friends \n
   `;
     
 let menuMsg = `
