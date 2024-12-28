@@ -34,19 +34,26 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-> KYPHER_XMD AVAILABLE MENUS* 
-╭─────────────────
-│❒⁠⁠⁠⁠╭─────────────
-│❒⁠⁠⁠⁠│▸ *MENU* 
-│❒⁠⁠⁠⁠│▸ *MENU2* 
-│❒⁠⁠⁠⁠│▸ *BUGMENU*
-│❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *PLUGINS* : ${cm.length} 
-│❒⁠⁠⁠⁠│▸ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠│▸ *SAVER* : ${os.platform()}
-│❒⁠⁠⁠⁠│▸ *THEME* : *𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT𒆜𓊉*
-│❒⁠⁠⁠⁠╰──────────────
-╰──────────────────\n`;
+╭────────────────────────╮  
+│        🚀  *KYPHER_XMD*       │  
+│  𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_ 𒆜𓊉  │  
+╰─────────────────────────╯  
+
+╭━━━━━❰ *MENU AVAILABLE* ❱━━━━━╮  
+┃ ❒  📜 ▸ *MENU*                  ┃  
+┃ ❒  📄 ▸ *MENU2*                 ┃  
+┃ ❒  🐞 ▸ *BUGMENU*  
+==================================┃  
+┃ ❒  🔌 ▸ *PLUGINS*  : ${cm.length} ┃  
+┃ ❒  💾 ▸ *RAM*      : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}  ┃  
+┃ ❒  🖥️  ▸ *SAVER*    : ${os.platform()}       ┃  
+┃ ❒  🎨 ▸ *THEME*    : 𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_TECH_SUPPORT_ 𒆜𓊉  ┃  
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯  
+
+📌 _*Type the command to proceed.*_  
+═══════════════════════════  
+💡 _*Need assistance? Type 'Assist' or 'Help'*_  
+══════════════════════════\n`;
 
 let menuMsg = `
 
