@@ -1,33 +1,45 @@
-
-
-
-const {zokou} = require('../framework/zokou');
-var gis = require('g-i-s');
-
+const { zokou } = require('../framework/zokou');
+const gis = require('g-i-s');  // Google Image Search
 
 zokou({
-  nomCom: "img",
-  categorie: "Search",
-  reaction: "📷"
+    nomCom: "img",
+    categorie: "Search",
+    reaction: "📷"
 },
 async (dest, zk, commandeOptions) => {
-  const { repondre, ms, arg } = commandeOptions;
+    const { repondre, ms, arg } = commandeOptions;
 
-  if (!arg[0]) {
-    repondre('which image ? !');
-    return;
-  }
+    if (!arg[0]) {
+        return await repondre('❌ Please specify an image to search for.');
+    }
 
-  const searchTerm = arg.join(" ");
-  //repondre("termes " +searchTerm);
-  gis(searchTerm,envoiImage);
+    const searchTerm = arg.join(" ");
 
-  function envoiImage(e,r)
-   {
-        if(e){repondre("oups une error ")}else{for(var a=0;a<5;a++){zk.sendMessage(dest,{image:{url:r[a].url}},{quoted:ms});}}
-    
-   }
+    try {
+        const results = await imageSearch(searchTerm);
 
- //gis(searchTerm,envoiImage);
-      
+        if (results.length === 0) {
+            return await repondre('⚠️ No images found for: ' + searchTerm);
+        }
+
+        for (let i = 0; i < Math.min(results.length, 5); i++) {
+            await zk.sendMessage(dest, { image: { url: results[i].url } }, { quoted: ms });
+        }
+    } catch (error) {
+        console.error('Image Search Error:', error);
+        return await repondre('❌ Error fetching images.');
+    }
 });
+
+// Function to Perform Google Image Search
+function imageSearch(searchTerm) {
+    return new Promise((resolve, reject) => {
+        gis(searchTerm, (error, results) => {
+            if (error) {
+                reject(error);
+            } else {
+                resolve(results);
+            }
+        });
+    });
+}
